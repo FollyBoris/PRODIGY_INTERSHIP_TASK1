@@ -54,8 +54,7 @@ Enter the text you want to encrypt or decrypt.
 Enter the shift value (an integer) for the Caesar Cipher.
 Example of interactive use:
 
-javascript
-Copy code
+```bash
                        __ __    ..           _____   ______    ______    ____ ____  
                      / __ __|   _          / ____/  / /  \ \  |  ____|  / ___ __ /
                     | |        | |  ____  | |      | |    | | | |____  | |______
@@ -81,3 +80,4 @@ Hello, World!
                                     | | | |_| | / _ \ | ' / | ' /  | |
                                     | | |  _  |/ ___ \| . \ | . \  |_|
                                     |_| |_| |_/_/   \_\_|\_\|_|\_\ (_)
+```
