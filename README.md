@@ -37,7 +37,7 @@ Run the script with the following arguments:
 Example:
 ```bash
 python main.py --mode encrypt --message "Hello!" --shift 2
-
+```
 ### Using Interactive Mode
 
 If you do not provide all the necessary arguments, the script will prompt you for them interactively. This is useful if you prefer to enter information step-by-step.
